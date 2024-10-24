@@ -23,6 +23,7 @@
         {vsn, git},
         {registered, []},
         {applications, [kernel, stdlib, syntax_tools]},
+        {included_applications, [compiler]},
   {env, []},
 
   {maintainers, ["Ulf Wiger"]},

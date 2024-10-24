@@ -6,9 +6,7 @@ __Authors:__ Ulf Wiger ([`ulf@wiger.net`](mailto:ulf@wiger.net)).
 
 Parse_transform utilities
 
-[![Build Status](https://github.com/uwiger/parse_trans/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/uwiger/parse_trans/actions/workflows/ci.yml)
-[![Hex pm](http://img.shields.io/hexpm/v/parse_trans.svg?style=flat)](https://hex.pm/packages/parse_trans)
-
+![parse_trans OpenRiak Status](https://github.com/OpenRiak/parse_trans/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
 
 ## Introduction ##
 
