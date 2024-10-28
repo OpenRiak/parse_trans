@@ -22,8 +22,8 @@
     [{description, "Parse transform library"},
         {vsn, git},
         {registered, []},
-        {applications, [kernel, stdlib, syntax_tools]},
-        {included_applications, [compiler]},
+        {applications, [kernel, stdlib, syntax_tools, compiler]},
+        % {included_applications, [compiler]},
   {env, []},
 
   {maintainers, ["Ulf Wiger"]},
