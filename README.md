@@ -6,7 +6,7 @@ __Authors:__ Ulf Wiger ([`ulf@wiger.net`](mailto:ulf@wiger.net)).
 
 Parse_transform utilities
 
-![parse_trans OpenRiak Status](https://github.com/OpenRiak/parse_trans/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
+![parse_trans OpenRiak Status](https://github.com/OpenRiak/parse_trans/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.4)
 
 ## Introduction ##
 
