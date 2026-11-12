@@ -1,6 +1,6 @@
-REBAR3=$(shell which rebar3 || echo ./rebar3)
+REBAR3 ?= ../riak/rebar3
 
-.PHONY: rel all clean
+.PHONY: all clean test doc
 
 all: compile
 
